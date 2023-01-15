@@ -1,0 +1,16 @@
+title: WSV Braunschweig
+email: 1.Vorsitzender@wsv-bs.de
+description: >-
+  Der WSV Braunschweig bietet mit seiner Hütte am Torfhaus im Harz einen idealen Anlaufpunkt.
+  Im Winter können von hieraus wunderschöne Ski-Langlauftouren unternommen werden. 
+
+repository: wsv-braunschweig/homepage
+#domain: my-site.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+theme: minimal-mistakes-jekyll
+locale: "de-DE"
+minimal_mistakes_skin: "wsv"
+plugins:
+  - jekyll-feed
