@@ -14,3 +14,5 @@ locale: "de-DE"
 minimal_mistakes_skin: "wsv"
 plugins:
   - jekyll-feed
+
+include: ["_pages"]
