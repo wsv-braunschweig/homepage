@@ -3,5 +3,7 @@ main:
     url: /training/
   - title: "Chronik"
     url: /chronik/
+  - title: "Impressum"
+    url: /impressum/
   
 
