@@ -1,11 +1,10 @@
 ---
-title: "WSV Braunschweig"
+title: "Herzlich Willkommen"
 layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
   overlay_image: /assets/images/snow.png
-excerpt: "Sport im Harz seit 1946"
 intro: 
   - excerpt: 'Der WSV Braunschweig bietet mit seiner Hütte am Torfhaus im Harz einen idealen Anlaufpunkt für sportliche Erholung im Naturschutzgebiet. Für Anfänger und Profis, jung und alt.'
 feature_row:

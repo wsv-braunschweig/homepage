@@ -1,7 +1,7 @@
 ---
-title: "WSV Braunschweig Chronik"
+title: "Der Verein"
 layout: splash
-permalink: /chronik/
+permalink: /verein/
 feature_row:
   - image_path: /assets/images/WSV-1945-1960-01.jpg
     alt: "huette"

@@ -1,6 +1,6 @@
 ---
-layout: posts
-title: "WSV Braunschweig Impressum"
+layout: splash
+title: "Impressum"
 permalink: /impressum/
 ---
 
@@ -29,7 +29,6 @@ Lars Gohr
 Gartenstraße 3  
 38461 Danndorf  
 
-Telefon: +49 (0) 531 3 55 75 50  
 E-Mail: webmaster@wsv-bs.de  
 
 #### Streitschlichtung

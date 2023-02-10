@@ -1,12 +1,14 @@
 ---
-layout: posts
-title: "WSV Braunschweig Training"
+layout: splash
+title: "Training"
 permalink: /training/
 ---
 
 ### Trainingszeiten 2023
 
-#### Wintersaison (bis zu den Osterferien und nach den Herbstferien)
+#### Wintersaison 
+
+Die Wintersaison startet in den Herbstferien und in endet in den Osterferien
 
 | Hallentraining (Familien) | Hallentraining (Skigymnastik) |
 | ------------------------- | ----------------------------- |

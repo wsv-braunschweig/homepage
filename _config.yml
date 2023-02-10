@@ -8,6 +8,7 @@ repository: wsv-braunschweig/homepage
 #domain: my-site.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+logo: "/assets/images/logo_88x88.png"
 
 theme: minimal-mistakes-jekyll
 locale: "de-DE"
@@ -16,3 +17,10 @@ plugins:
   - jekyll-feed
 
 include: ["_pages"]
+
+footer:
+  links:
+    - label: "Impressum"
+      url: "/impressum"
+    - label: "Datenschutz"
+      url: "/datenschutz"

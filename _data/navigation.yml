@@ -1,9 +1,7 @@
 main:
   - title: "Training"
     url: /training/
-  - title: "Chronik"
-    url: /chronik/
-  - title: "Impressum"
-    url: /impressum/
-  
-
+  - title: "Hütte"
+    url: /huette/
+  - title: "Verein"
+    url: /verein/
