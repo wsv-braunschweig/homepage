@@ -1,10 +1,10 @@
 ---
 title: "Herzlich Willkommen"
 layout: splash
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.1"
-  overlay_image: /assets/images/snow.png
+carousels:
+  - images: 
+    - image: /assets/images/ski_skating.jpg
+    - image: /assets/images/klettern.jpg
 intro: 
   - excerpt: 'Der WSV Braunschweig bietet mit seiner Hütte am Torfhaus im Harz einen idealen Anlaufpunkt für sportliche Erholung im Naturschutzgebiet. Für Anfänger und Profis, jung und alt.'
 feature_row:
@@ -18,17 +18,20 @@ feature_row:
     alt: "brockenblick"
     excerpt: "Neben den sportlichen Aktivitäten kommt der gesellige Teil nicht zu kurz. Die Hütte bietet hier viele Möglichkeiten für groß und klein, für jung und alt."
 feature_row2:
-  - image_path: /assets/images/vereinsmeisterschaft.jpg
+  - image_path: /assets/images/vereinsleben.jpg
     alt: "Vereinsmeisterschaft"
     title: "Ein Blick in unser Vereinsleben"
     excerpt: 'Den Mitgliedern stehen bis zu 59 Betten, sowie ein großer Gemeinschaftsraum zur Verfügung. Die großzügige Küche läßt keine Wünsche offen. Angesprochen werden bei uns überwiegend die Breitensportler.
     Hierbei bildet die Skihütte am Torfhaus im Oberharz den Mittelpunkt des Vereinslebens. Bei entsprechenden Schneelagen treffen sich hier unsere Mitglieder am Wochenende, um gemeinsam Ski zu laufen aber auch, um viel Spaß in der Gemeinschaft zu haben. Wenn es der Schnee zuläßt, tragen wir jedes Jahr die Vereinmeisterschaft am Torfhaus aus. Weiterhin nehmen unsere Jüngsten regelmäßig am Tag der Braunschweiger Skijugend teil. Anfang Januar wird die Grillsaison mit Wurst und Glühwein eröffnet, selbstverständlich mit Musik und Tanz.'
 feature_row3:
-  - image_path: /assets/images/wettkaempfe.jpg
+  - image_path: /assets/images/Flaming_2022.jpg
     alt: "Wettkaempfe"
     title: "Wettkampfsport"
     excerpt: 'Auch der Wettkampfsport ist bei uns zu finden. Die vielen Loipen bieten gute Trainingsbedingungen. Unsere Vereinsmitglieder haben schon an vielen internationalen Wettkämpfen teilgenommen, z.B. Vasaloppet (Schweden), Birkebeiner Rennet (Norwegen), Finlandia Hiihto (Finnland), Engadiner Skimarathon (Schweiz), Marcialonga (Italien), König-Ludwig-Lauf (Deutschland) u.a.'
 ---
+
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
