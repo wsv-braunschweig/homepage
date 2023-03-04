@@ -1,4 +1,4 @@
-{% include base_path %}
+{% capture base_path %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
 
 {% assign letterstring = "a,b,c,d,e,f,g,h,i,j,k,l,m,n" %}
 {% assign letters = letterstring | split: ',' %}
