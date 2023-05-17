@@ -30,7 +30,7 @@ feature_row3:
     excerpt: 'Auch der Wettkampfsport ist bei uns zu finden. Die vielen Loipen bieten gute Trainingsbedingungen. Unsere Vereinsmitglieder haben schon an vielen internationalen Wettkämpfen teilgenommen, z.B. Vasaloppet (Schweden), Birkebeiner Rennet (Norwegen), Finlandia Hiihto (Finnland), Engadiner Skimarathon (Schweiz), Marcialonga (Italien), König-Ludwig-Lauf (Deutschland) u.a.'
 ---
 
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+{% include carousel.html height="40" unit="%" duration="7" number="1" %}
 
 {% include feature_row id="intro" type="center" %}
 

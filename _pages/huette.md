@@ -4,6 +4,7 @@ layout: splash
 permalink: /huette/
 feature_row:
   - image_path: assets/images/lage.png
+    url: https://www.openstreetmap.org/search?whereami=1&query=51.79949%2C10.54306#map=16/51.7995/10.5431&layers=N
     alt: "lage"
     title: "Lage"
     excerpt: "Die Hütte des WSV Braunschweig liegt direkt am Goetheweg.
